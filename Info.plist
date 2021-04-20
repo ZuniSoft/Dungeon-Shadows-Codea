@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Main</string>
+		<string>IntroScreen</string>
+		<string>Floor</string>
+		<string>FloatingMessage</string>
+		<string>Button</string>
+		<string>Dialog</string>
+		<string>Monster</string>
+		<string>Treasure</string>
+		<string>Bomb</string>
+		<string>Arrow</string>
+		<string>Frame</string>
+	</array>
+	<key>Description</key>
+	<string>No description available</string>
+</dict>
+</plist>
